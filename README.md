@@ -11,9 +11,9 @@
 [Installation](https://xgboost.readthedocs.org/en/latest/build.html) |
 [Release Notes](NEWS.md) |
 [RoadMap](https://github.com/dmlc/xgboost/issues/873)
+This is an R packages to generate genomic and bioinformatic pipelines and submit jobs on HPC system running slurm.
 -->
 
-This is an R packages to generate genomic and bioinformatic pipelines and submit jobs on HPC system running slurm.
 
 ## Install
 
